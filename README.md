@@ -4,5 +4,7 @@ Word Puzzle Game Application that can help you learn English vocabulary. The gam
 
 I hope you enjoy playing LexiWord and find it useful in enhancing your vocabulary skills and stimulating your thinking. You can find the game by clicking here https://main.dggcvluvmsbo4.amplifyapp.com/
 
+In this project, we utilized AWS, lambda, API Gateways, S3, DynamoDB, and AWS Amplify.
+
 <img width="1440" alt="Screenshot 2024-04-15 at 1 05 10 AM" src="https://github.com/rajkandula/Lexi.Game/assets/112989454/98d206f4-0e80-4c92-b2bd-bb58b9181fd7">
 
